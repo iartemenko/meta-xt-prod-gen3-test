@@ -11,6 +11,7 @@ IMAGE_INSTALL_append = " \
     optee-os \
     sensors-emulator \
     displaymanager \
+    glmark2 \
 "
 
 # Configuration for ARM Trusted Firmware
